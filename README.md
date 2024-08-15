@@ -8,7 +8,8 @@
   - [Chada Tech Clock]
 - <b>Data Analytics Projects:</b>
   - Coming soon!
-
+- <b>Information Technology Projects:</b>
+  - Coming soon!
 
 
 <h2>🤳Connect with me:</h2>
