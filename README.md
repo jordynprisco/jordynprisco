@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jordyn, an <a href="https://www.linkedin.com/in/jordynprisco/">Fitness Professional and CS Student</a>☺</h1>
+<h1>Hi, I'm Jordyn, a <a href="https://www.linkedin.com/in/jordynprisco/">Fitness Professional and CS Student</a>☺</h1>
 
 <h2>👨‍💻 Computer Science, Data Science, and Information Technology Projects:</h2>
 
