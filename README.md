@@ -5,7 +5,7 @@
 - <b>C++ Projects:</b>
   - [Corner Grocer Inventory Management]
   - [Airgead Banking Investment Calculator]
-  - [Chada Tech Clock]
+  - [Chada Tech Clock](https://github.com/jordynprisco/chadatech)
 - <b>Data Analytics Projects:</b>
   - Coming soon!
 - <b>Information Technology Projects:</b>
